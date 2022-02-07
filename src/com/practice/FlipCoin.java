@@ -28,6 +28,7 @@ public class FlipCoin {
 		System.out.println("headCountPercentage= " + headCountPercentage);
 		double tailCountPercentage = (double) ((tailCount / num) * 100);
 		System.out.println("tailCountPercentage= " + tailCountPercentage);
+		scanner.close();
 	}
 
 	public static void main(String[] args) {
