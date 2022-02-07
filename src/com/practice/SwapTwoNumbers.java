@@ -16,6 +16,8 @@ public class SwapTwoNumbers {
 		num1 = num1 ^ num2;
 		System.out.println("Tha numbers after swap 1)num1= " + num1 + " 2)num2= " + num2);
 		scanner.close();
+		
+		
 	}
 
 	public static void main(String[] args) {
